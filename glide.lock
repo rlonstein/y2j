@@ -1,0 +1,8 @@
+hash: ebf6ec6ad6f91fe19cf27f50821368abd086fff723977f831d0e796c4eafe70e
+updated: 2017-09-01T23:58:30.629335663-04:00
+imports:
+- name: github.com/docopt/docopt-go
+  version: 784ddc588536785e7299f7272f39101f7faccc3f
+- name: gopkg.in/yaml.v2
+  version: eb3733d160e74a9c7e442f435eb3bea458e1d19f
+testImports: []

@@ -1,0 +1,5 @@
+package: github.com/rlonstein/y2j
+import:
+- package: github.com/docopt/docopt-go
+  version: 0.6.2
+- package: gopkg.in/yaml.v2
